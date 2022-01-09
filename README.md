@@ -1,4 +1,4 @@
-# qr_app_flutter
+# QR Scanner
 
 A new Flutter project.
 
