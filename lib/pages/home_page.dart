@@ -36,7 +36,7 @@ class _HomePageBody extends StatelessWidget {
     //Obtener el selected menu desde el provider
     final uiProvider = Provider.of<UiProvider>(context);
 
-    //DB
+    //Leer DB
     DBProvider.db.database;
 
     //Cambiar para mostrar la página respectiva / se obtiene el getter
